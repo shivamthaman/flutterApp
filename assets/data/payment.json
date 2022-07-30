@@ -1,0 +1,24 @@
+{
+  "payment": [
+    {
+      "amount": "1,444",
+      "period": "6",
+      "monthly": "240"
+    },
+    {
+      "amount": "12,444",
+      "period": "12",
+      "monthly": "1037"
+    },
+    {
+      "amount": "52,444",
+      "period": "24",
+      "monthly": "2185"
+    },
+    {
+      "amount": "1,02,444",
+      "period": "36",
+      "monthly": "2845"
+    }
+  ]
+}

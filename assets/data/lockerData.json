@@ -1,0 +1,31 @@
+{
+  "locker_conent": [
+    {
+      "sr_no": "OSS1001",
+      "quantity": "02",
+      "quality": "22 carats",
+      "stone_weight": "30 grams",
+      "gross_weight": "150 grams",
+      "net_weight": "4g/4g",
+      "item": "Necklace"
+    },
+    {
+      "sr_no": "OSS1001",
+      "quantity": "02",
+      "quality": "22 carats",
+      "stone_weight": "30 grams",
+      "gross_weight": "150 grams",
+      "net_weight": "4g/4g",
+      "item": "Necklace"
+    },
+    {
+      "sr_no": "OSS1001",
+      "quantity": "02",
+      "quality": "22 carats",
+      "stone_weight": "30 grams",
+      "gross_weight": "150 grams",
+      "net_weight": "4g/4g",
+      "item": "Necklace"
+    }
+  ]
+}
